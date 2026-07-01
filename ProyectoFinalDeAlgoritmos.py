@@ -1,4 +1,4 @@
-#ARMANDO UNA MOCHILA DE EMERGENCIA
+#ARMANDO UNA MOCHILA DE EMERGENCIA hola
 
 
 #Para formalizar las categorias se crea un diccionarios con categorias predeterminadas
