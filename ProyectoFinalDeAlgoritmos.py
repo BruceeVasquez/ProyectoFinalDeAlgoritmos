@@ -97,5 +97,7 @@ def SolucionBruta(PRODUCTOS = []):
   print(f"Peso total: {mejor_peso}")
   print(f"Valor total: {mejor_valor}")
   print("xvx"*15)
-    
+
+#Yo bruss escribi algo en esta rama, si puedes verla me confirmas
+
 
